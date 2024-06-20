@@ -121,4 +121,4 @@ python demo.py
 
 <img src="image/README/1715680450611.jpg" alt="结尾图片" style="zoom:50%;" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;**驭科技以守护，持创新以护航**，AeroSentry 高层智能监测系统定会成为 **智能安防、平安中国** 之船的重要组成部分，载着人民共同渡往安全幸福的彼方。
+&nbsp;&nbsp;&nbsp;&nbsp;**驭科技以守护，持创新以护航**，AeroSentry空中哨兵 高层智能监测系统定会成为 **智能安防、平安中国** 之船的重要组成部分，载着人民共同渡往安全幸福的彼方。

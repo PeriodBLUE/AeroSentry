@@ -73,11 +73,11 @@
 
 <img src="image/README/1715697181278.png" alt="产研一体" style="zoom:50%;" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;本作品由深圳英飞拓智能技术有限公司提供硬件支持，促进应用研发过程；
+&nbsp;&nbsp;&nbsp;&nbsp;本作品由英飞拓智能技术有限公司提供硬件支持，促进应用研发过程；
 
 <img src="image/README/1715679811207.jpg" alt="系统实现" style="zoom:50%;" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;并将该高层智能监测系统应用于深圳湾超级总部基地以及其他数个园区，实现落地试点，带来广泛的社会效益和显著的科技示范效益。
+&nbsp;&nbsp;&nbsp;&nbsp;并将该高层智能监测系统应用于某湾超级总部基地以及其他数个园区，实现落地试点，带来广泛的社会效益和显著的科技示范效益。
 
 <img src="image/README/1715679817826.png" alt="系统实现" style="zoom:50%;" />
 

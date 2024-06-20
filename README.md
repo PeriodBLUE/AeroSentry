@@ -1,6 +1,6 @@
-# AeroSentry 高层智能监测系统
+# AeroSentry空中哨兵 高层智能监测系统
 
-> 第17届中国大学生计算机设计大赛 人工智能应用-人工智能实践赛 作品
+> 中国高校计算机大赛-网络技术挑战赛 作品
 
 > **AeroSentry** 是专为高层建筑和人群密集区设计的高级智能安防系统。该系统结合高分辨率、高帧率摄像技术和双角度监测策略，适用于智慧安防、智慧社区和智能建筑等行业，致力于与物业、企业、政府合作，以保障公民的生命和财产安全。
 >
@@ -51,11 +51,11 @@
 
 ### 数据集构建与开源
 
-&nbsp;&nbsp;&nbsp;&nbsp;我们构建了高质量 [高空抛物检测原创数据集](https://pan.baidu.com/s/12ACPttrbEMglgN6v_PanEw?pwd=2333) ，涵盖丰富的场景及多样的抛物类别；
+&nbsp;&nbsp;&nbsp;&nbsp;我们构建了高质量 [高空抛物检测原创数据集](https://pan.baidu.com/s/1hjMFLBFb6n70RYeip-WJmg?pwd=2333 ) ，涵盖丰富的场景及多样的抛物类别；
 
 <img src="image/README/1715679712273.jpg" alt="技术示意" style="zoom:50%;" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;以及高质量 [高层危险行为原创数据集](https://pan.baidu.com/s/12ACPttrbEMglgN6v_PanEw?pwd=2333) ，同样涉及丰富场景和多样的动作类别。
+&nbsp;&nbsp;&nbsp;&nbsp;以及高质量 [高层危险行为原创数据集](https://pan.baidu.com/s/1hjMFLBFb6n70RYeip-WJmg?pwd=2333 ) ，同样涉及丰富场景和多样的动作类别。
 
 <img src="image/README/1715679719404.jpg" alt="技术示意" style="zoom:50%;" />
 
@@ -107,10 +107,6 @@ fc-cache -fv
 fc-list | grep "MSYH"
 ```
 
-## 数据集
-
-&nbsp;&nbsp;&nbsp;&nbsp;如需下载 AeroSentry 所使用的数据集示例，访问 [百度网盘链接](https://pan.baidu.com/s/12ACPttrbEMglgN6v_PanEw?pwd=2333) 并使用提取码 `2333` 进行下载。
-
 ## demo运行
 
 ```bash
@@ -118,7 +114,6 @@ python demo.py
 ```
 
 <img src="img/new_start.jpg" alt="系统概览" style="zoom:50%;" />
-
 
 ## 作者的话
 
